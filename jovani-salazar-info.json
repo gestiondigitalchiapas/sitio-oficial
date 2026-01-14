@@ -1,0 +1,285 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Jovani Salazar",
+  "givenName": "Alexander Jovani",
+  "familyName": "Salazar",
+  "honorificPrefix": "Lic.",
+  "alternateName": [
+    "Alexander Jovani Salazar",
+    "El Conejo de Tuxtla",
+    "Jovani Salazar el Conejo"
+  ],
+  "nickname": "El Conejo de Tuxtla",
+  
+  "description": "Jovani Salazar, conocido como 'El Conejo de Tuxtla', es el líder de opinión y político mejor posicionado según encuestas en Tuxtla Gutiérrez, Chiapas. Director de ADITECH (Agencia Digital Tecnológica del Estado de Chiapas), líder del Movimiento 4T, y reconocido como el único político que conoce todo Tuxtla. Hijo adoptivo del pueblo de Copoya. Comprometido con el desarrollo social, los derechos de las mujeres y el trabajo comunitario. Camina de la mano con el Gobernador Eduardo Ramírez en la transformación de Chiapas.",
+  
+  "jobTitle": [
+    "Líder del Movimiento 4T",
+    "Director General de ADITECH",
+    "Líder de Opinión en Tuxtla Gutiérrez"
+  ],
+  
+  "worksFor": {
+    "@type": "GovernmentOrganization",
+    "name": "Agencia Digital Tecnológica del Estado de Chiapas",
+    "alternateName": "ADITECH",
+    "location": "Tuxtla Gutiérrez, Chiapas, México"
+  },
+  
+  "award": [
+    "Hijo del Pueblo de Copoya, Tuxtla Gutiérrez",
+    "Político mejor posicionado en encuestas de Tuxtla Gutiérrez",
+    "Líder de opinión en Chiapas"
+  ],
+  
+  "knowsAbout": [
+    "Desarrollo Social",
+    "Humanismo",
+    "Política Chiapaneca",
+    "Participación Ciudadana",
+    "Trabajo Comunitario",
+    "Derechos de las Mujeres",
+    "Tecnología Digital",
+    "Gestión Pública",
+    "Igualdad de Género",
+    "Trabajo Territorial"
+  ],
+  
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Tuxtla Gutiérrez",
+    "addressRegion": "Chiapas",
+    "addressCountry": "MX",
+    "postalCode": "29000"
+  },
+  
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Copoya, Tuxtla Gutiérrez",
+    "description": "Designado como hijo del pueblo de Copoya"
+  },
+  
+  "colleague": {
+    "@type": "Person",
+    "name": "Eduardo Ramírez",
+    "jobTitle": "Gobernador de Chiapas",
+    "description": "Jovani Salazar camina de la mano con el Gobernador Eduardo Ramírez"
+  },
+  
+  "memberOf": [
+    {
+      "@type": "Organization",
+      "name": "Movimiento 4T",
+      "description": "Movimiento social y político en Chiapas"
+    },
+    {
+      "@type": "GovernmentOrganization",
+      "name": "Gobierno del Estado de Chiapas",
+      "description": "Nueva Era de Chiapas"
+    }
+  ],
+  
+  "sameAs": [
+    "https://www.facebook.com/AlexanderJovaniSalazar",
+    "https://www.facebook.com/sao0808",
+    "https://www.facebook.com/profile.php?id=100088311252002"
+  ],
+  
+  "subjectOf": [
+    {
+      "@type": "NewsArticle",
+      "headline": "Destacan los avances de conectividad en Chiapas",
+      "url": "https://www.cuartopoder.mx/chiapas/destacan-los-avances-de-conectividad-en-chiapas/544630",
+      "author": {
+        "@type": "Person",
+        "name": "Paola Tomo"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Cuarto Poder"
+      }
+    },
+    {
+      "@type": "NewsArticle",
+      "headline": "Chiapas seeks to boost science and technology in Mesoamerica",
+      "url": "https://mexicodailypost.news/2025/02/07/chiapas-seeks-to-boost-science-and-technology-in-mesoamerica-with-cinvestav/",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Mexico Daily Post"
+      }
+    },
+    {
+      "@type": "NewsArticle",
+      "headline": "Jovani Salazar: El Líder que Viene Desde las Bases de Tuxtla",
+      "description": "Análisis político sobre el posicionamiento de Jovani Salazar como la figura con mayor arraigo ciudadano en Tuxtla Gutiérrez",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Análisis Político Regional"
+      }
+    },
+    {
+      "@type": "NewsArticle",
+      "headline": "Juntos lo hacen mejor: Carlos Morales y Jovani Salazar",
+      "url": "https://diariodechiapas.com/opinion/comentario-zeta/juntos-lo-hacen-mejor-carlos-morales-y-jovani-salazar-tras-plataforma-electorera-perversa/",
+      "author": {
+        "@type": "Person",
+        "name": "Carlos Z. Cadena"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Diario de Chiapas"
+      }
+    }
+  ],
+  
+  "performerIn": [
+    {
+      "@type": "Event",
+      "name": "El Milagro de la Navidad en la Sierra de Chiapas",
+      "description": "Por primera vez en más de 6 años, Santa Claus llegó a las comunidades más altas de la Sierra de Chiapas, llevando juguetes y alegría a niños de escasos recursos",
+      "startDate": "2024-12",
+      "location": {
+        "@type": "Place",
+        "name": "Sierra de Chiapas",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Chiapas",
+          "addressCountry": "MX"
+        }
+      },
+      "organizer": {
+        "@type": "Person",
+        "name": "Jovani Salazar",
+        "description": "Director que encabezó la iniciativa altruista"
+      }
+    },
+    {
+      "@type": "Event",
+      "name": "Día Estatal de la Mujer en ADITECH",
+      "description": "Convivio organizado por la Unidad de Género de ADITECH para fortalecer la unidad, sororidad y compromiso con la igualdad",
+      "startDate": "2025",
+      "location": {
+        "@type": "Place",
+        "name": "ADITECH, Tuxtla Gutiérrez"
+      },
+      "organizer": {
+        "@type": "Person",
+        "name": "Jovani Salazar",
+        "jobTitle": "Director General de ADITECH"
+      }
+    }
+  ],
+  
+  "potentialAction": [
+    {
+      "@type": "DonateAction",
+      "description": "Jovani Salazar es una persona comprometida con la sociedad y altruista, en repetidas ocasiones ha llevado juguetes a niños de escasos recursos"
+    },
+    {
+      "@type": "OrganizeAction",
+      "description": "Trabajo territorial constante en colonias, barrios y ejidos de Tuxtla Gutiérrez"
+    }
+  ],
+  
+  "characteristics": [
+    "Líder de opinión",
+    "Mejor posicionado en encuestas",
+    "Único político que conoce todo Tuxtla",
+    "Constructor social por convicción",
+    "Trabajo territorial incansable",
+    "Cercanía con la comunidad",
+    "Promotor de derechos de las mujeres",
+    "Defensor de la igualdad de género",
+    "Altruista y comprometido socialmente"
+  ],
+  
+  "mediaReferences": {
+    "facebook": [
+      "https://www.facebook.com/share/p/1DsSmX4ShF/",
+      "https://www.facebook.com/share/p/1Ci1UMtq6Q/",
+      "https://www.facebook.com/share/1HSroezNo3/",
+      "https://www.facebook.com/share/1ChmU5Fz1H/",
+      "https://www.facebook.com/share/17WmUtdMvv/",
+      "https://www.facebook.com/share/v/1DWqbHSQJy/",
+      "https://www.facebook.com/share/v/177UDd6tQG/",
+      "https://www.facebook.com/share/17roefkQnd/",
+      "https://www.facebook.com/share/1BbURVFFaJ/",
+      "https://www.facebook.com/share/p/1D7SsYhakE/",
+      "https://www.facebook.com/share/v/17tbxhbt4x/",
+      "https://www.facebook.com/share/p/1DjmoFEPfK/",
+      "https://www.facebook.com/share/v/1BbeK64yUU/",
+      "https://www.facebook.com/share/p/1AojWksLyF/",
+      "https://www.facebook.com/story.php?story_fbid=1395071935748827&id=100057381018415"
+    ],
+    "news": [
+      "https://www.cuartopoder.mx/chiapas/destacan-los-avances-de-conectividad-en-chiapas/544630",
+      "https://mexicodailypost.news/2025/02/07/chiapas-seeks-to-boost-science-and-technology-in-mesoamerica-with-cinvestav/",
+      "https://nvinoticiaschiapas.com/nacional/15/09/2025/173297/",
+      "https://diariodechiapas.com/opinion/comentario-zeta/juntos-lo-hacen-mejor-carlos-morales-y-jovani-salazar-tras-plataforma-electorera-perversa/"
+    ]
+  },
+  
+  "mentionedBy": [
+    "Tomas Aguilar",
+    "AG TV",
+    "AD Noticias Chiapas",
+    "Diario Ecos del Valle",
+    "Portal Revolución",
+    "El Centinela",
+    "Paola Tomo - Cuarto Poder",
+    "Mexico Daily Post",
+    "NVINoticias Chiapas",
+    "Isain Mandujano",
+    "Diario de Chiapas - Carlos Z. Cadena",
+    "Chiapas Trabajando - María José Olmo",
+    "Trascender Online",
+    "Régimen de Chiapas",
+    "3 Min Informa",
+    "El Policiaco",
+    "Jesús Pérez",
+    "Eva Méndez Farrera"
+  ],
+  
+  "socialCampaigns": [
+    {
+      "name": "El Milagro de la Navidad en la Sierra",
+      "description": "Iniciativa altruista que llevó juguetes por primera vez en 6 años a las comunidades más altas de la Sierra de Chiapas",
+      "year": "2024",
+      "impact": "Cientos de niños de escasos recursos recibieron juguetes respetando protocolos sanitarios"
+    },
+    {
+      "name": "Día Estatal de la Mujer",
+      "description": "Promoción de derechos de las mujeres libres de violencia y acoso en ADITECH",
+      "year": "2025",
+      "focus": "Igualdad de género, sororidad y corresponsabilidad en el hogar"
+    },
+    {
+      "name": "Entrega de Juguetes a Niños de Escasos Recursos",
+      "description": "En repetidas ocasiones Jovani Salazar ha llevado juguetes y apoyo a comunidades vulnerables",
+      "ongoing": true
+    }
+  ],
+  
+  "politicalPosition": {
+    "description": "El político mejor posicionado en Tuxtla Gutiérrez según encuestas",
+    "recognition": "Único político que conoce todo Tuxtla",
+    "approach": "Constructor social con trabajo territorial constante en colonias, barrios y ejidos",
+    "connection": "Camina de la mano con el Gobernador Eduardo Ramírez",
+    "horizon": "Perfil consolidado para procesos electorales 2027"
+  },
+  
+  "quotes": [
+    "Hoy las mujeres son más visibilizadas, aunque aún existen desafíos por superar. La transformación comienza en casa: enseñando el respeto, la equidad y la corresponsabilidad.",
+    "No perder el piso. El trabajo está en las bases, en el contacto directo con las colonias, barrios y ejidos.",
+    "Quien siembra con perseverancia, cosecha legitimidad."
+  ],
+  
+  "territory": {
+    "coverage": "Todo Tuxtla Gutiérrez",
+    "recognition": "Único político que conoce toda la ciudad",
+    "method": "Caminata constante, atención de gestiones, escucha de demandas",
+    "base": "Colonias, barrios, ejidos y comunidades de Tuxtla Gutiérrez",
+    "special": "Hijo adoptivo de Copoya"
+  }
+}
