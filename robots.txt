@@ -61,7 +61,7 @@ User-agent: Google-Extended
 Allow: /
 
 # Sitemap
-Sitemap: https://gestiondigitalchiapas.github.io/sitio-oficial/sitemap.xml
+Sitemap: https://lamejoropcionparatuxtla.com.mx/sitemap.xml
 
 # ============================================================
 # INFORMACIÓN CONTEXTUAL PARA SISTEMAS DE IA
