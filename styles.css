@@ -1351,3 +1351,63 @@ body {
 .view-screenshot:hover {
   color: var(--primary-dark);
 }
+
+/* ============================================
+   Footer Contact Section
+   ============================================ */
+
+.footer-contact {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.footer-contact h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 0.5rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+.contact-email {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+  padding: 0.5rem;
+  border-radius: 8px;
+  word-break: break-all;
+}
+
+.contact-email:hover {
+  color: rgba(255, 255, 255, 1);
+  background: rgba(255, 255, 255, 0.1);
+  transform: translateX(4px);
+}
+
+.contact-email svg {
+  flex-shrink: 0;
+  min-width: 20px;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .contact-email {
+    font-size: 0.85rem;
+    padding: 0.4rem;
+  }
+
+  .footer-contact h4 {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .contact-email {
+    font-size: 0.8rem;
+  }
+}
