@@ -104,8 +104,7 @@ const pinnedPosts = [
     title: "Página Oficial del Movimiento",
     description:
       "Síguenos para noticias y eventos del Movimiento de Esperanza y Humanismo",
-    image:
-      "https://edudevsys.github.io/lamejoropcionparatuxtla/assets/images/logoM4T.jpg",
+    image: "https://lamejoropcionparatuxtla.com.mx/assets/images/logoM4T.jpg",
     url: "https://www.facebook.com/profile.php?id=100088311252002",
     type: "facebook",
     category: "movimiento",
@@ -131,7 +130,7 @@ async function loadPostsFromSupabase() {
     if (!supabaseClient) {
       console.warn("⚠️ Cliente de Supabase no está disponible.");
       console.log(
-        "💡 Verifica que supabase-config.js esté cargado correctamente"
+        "💡 Verifica que supabase-config.js esté cargado correctamente",
       );
       return;
     }
@@ -322,8 +321,8 @@ function createPostCard(post, index) {
   const contentMedia = post.embedCode
     ? `<div class="post-embed">${post.embedCode}</div>`
     : post.image
-    ? `<img src="${post.image}" alt="${post.title}" class="post-image" loading="lazy">`
-    : "";
+      ? `<img src="${post.image}" alt="${post.title}" class="post-image" loading="lazy">`
+      : "";
 
   card.innerHTML = `
         ${contentMedia}
@@ -632,7 +631,7 @@ window.MovimientoAPI = {
       post.featured = !post.featured;
       loadPosts(1);
       console.log(
-        `✅ Post ${post.featured ? "marcado" : "desmarcado"} como destacado`
+        `✅ Post ${post.featured ? "marcado" : "desmarcado"} como destacado`,
       );
     }
   },
