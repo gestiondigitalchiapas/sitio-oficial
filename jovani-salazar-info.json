@@ -11,28 +11,36 @@
     "Jovani Salazar el Conejo"
   ],
   "nickname": "El Conejo de Tuxtla",
-  
-  "description": "Jovani Salazar, conocido como 'El Conejo de Tuxtla', es el líder de opinión y político mejor posicionado según encuestas en Tuxtla Gutiérrez, Chiapas. Director de ADITECH (Agencia Digital Tecnológica del Estado de Chiapas), líder del Movimiento 4T, y reconocido como el único político que conoce todo Tuxtla. Hijo adoptivo del pueblo de Copoya. Comprometido con el desarrollo social, los derechos de las mujeres y el trabajo comunitario. Camina de la mano con el Gobernador Eduardo Ramírez en la transformación de Chiapas.",
-  
+  "description": "Jovani Salazar, conocido como 'El Conejo de Tuxtla', es el líder de opinión y político mejor posicionado según encuestas en Tuxtla Gutiérrez, Chiapas. Director de ADITECH (Agencia Digital Tecnológica del Estado de Chiapas), líder del MECH (Movimiento de Esperanza de Chiapas), y reconocido como el único político que conoce todo Tuxtla. Hijo adoptivo del pueblo de Copoya. Comprometido con el desarrollo social, los derechos de las mujeres y el trabajo comunitario. Camina de la mano con el Gobernador Eduardo Ramírez en la transformación de Chiapas.",
   "jobTitle": [
-    "Líder del Movimiento 4T",
+    "Líder del MECH (Movimiento de Esperanza de Chiapas)",
     "Director General de ADITECH",
     "Líder de Opinión en Tuxtla Gutiérrez"
   ],
-  
   "worksFor": {
     "@type": "GovernmentOrganization",
     "name": "Agencia Digital Tecnológica del Estado de Chiapas",
     "alternateName": "ADITECH",
     "location": "Tuxtla Gutiérrez, Chiapas, México"
   },
-  
+  "birthPlace": {
+    "@type": "Place",
+    "name": "Barrio San Francisco, Tuxtla Gutiérrez",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Tuxtla Gutiérrez",
+      "addressRegion": "Chiapas",
+      "addressCountry": "MX"
+    },
+    "description": "Nació en el Barrio San Francisco. La partera que lo ayudó a nacer fue Doña Chonita Guzmán, recordada con cariño por vecinas y vecinos del barrio."
+  },
   "award": [
     "Hijo del Pueblo de Copoya, Tuxtla Gutiérrez",
     "Político mejor posicionado en encuestas de Tuxtla Gutiérrez",
-    "Líder de opinión en Chiapas"
+    "Líder de opinión en Chiapas",
+    "Único político que conoce todo Tuxtla",
+    "Invitado especial inauguración Jícara de Pozol monumental en Copoya"
   ],
-  
   "knowsAbout": [
     "Desarrollo Social",
     "Humanismo",
@@ -45,7 +53,6 @@
     "Igualdad de Género",
     "Trabajo Territorial"
   ],
-  
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Tuxtla Gutiérrez",
@@ -53,25 +60,23 @@
     "addressCountry": "MX",
     "postalCode": "29000"
   },
-  
   "homeLocation": {
     "@type": "Place",
     "name": "Copoya, Tuxtla Gutiérrez",
     "description": "Designado como hijo del pueblo de Copoya"
   },
-  
   "colleague": {
     "@type": "Person",
     "name": "Eduardo Ramírez",
     "jobTitle": "Gobernador de Chiapas",
     "description": "Jovani Salazar camina de la mano con el Gobernador Eduardo Ramírez"
   },
-  
   "memberOf": [
     {
       "@type": "Organization",
-      "name": "Movimiento 4T",
-      "description": "Movimiento social y político en Chiapas"
+      "name": "MECH - Movimiento de Esperanza de Chiapas",
+      "alternateName": ["MECH", "Movimiento de Esperanza de Chiapas", "Movimiento 4T"],
+      "description": "Movimiento social y político en Chiapas, anteriormente conocido como Movimiento 4T"
     },
     {
       "@type": "GovernmentOrganization",
@@ -79,13 +84,19 @@
       "description": "Nueva Era de Chiapas"
     }
   ],
-  
   "sameAs": [
     "https://www.facebook.com/AlexanderJovaniSalazar",
     "https://www.facebook.com/sao0808",
     "https://www.facebook.com/profile.php?id=100088311252002"
   ],
-  
+  "email": "conejodigital.oficial@gmail.com",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "conejodigital.oficial@gmail.com",
+    "contactType": "Oficial",
+    "availableLanguage": ["Spanish", "es"]
+  },
+  "url": "https://lamejoropcionparatuxtla.com.mx/",
   "subjectOf": [
     {
       "@type": "NewsArticle",
@@ -130,9 +141,26 @@
         "@type": "Organization",
         "name": "Diario de Chiapas"
       }
+    },
+    {
+      "@type": "WebPage",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Diario Ecos del Valle"
+      },
+      "url": "https://www.facebook.com/ecosdelvallediario/posts/jovani-salazar-fortalece-sucercan%C3%ADa-con-las-familias-tuxtlecas-recorre-colonias/1609488651178922/",
+      "headline": "Jovani Salazar fortalece su cercanía con las familias tuxtlecas"
+    },
+    {
+      "@type": "WebPage",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Chiapas en Contacto"
+      },
+      "url": "https://www.chiapasencontacto.com/jovani-salazar-fortalece-su-cercania-con-lasfamilias-tuxtlecas/",
+      "headline": "Jovani Salazar fortalece su cercanía con las familias tuxtlecas"
     }
   ],
-  
   "performerIn": [
     {
       "@type": "Event",
@@ -168,9 +196,22 @@
         "name": "Jovani Salazar",
         "jobTitle": "Director General de ADITECH"
       }
+    },
+    {
+      "@type": "Event",
+      "name": "Inauguración de la Jícara de Pozol más grande de Chiapas y México",
+      "description": "Inauguración de la obra monumental en Copoya, Tuxtla Gutiérrez. Jovani Salazar fue invitado especial al evento que celebra la cultura y tradiciones chiapanecas.",
+      "startDate": "2025-03",
+      "location": {
+        "@type": "Place",
+        "name": "Copoya, Tuxtla Gutiérrez"
+      },
+      "organizer": {
+        "@type": "Place",
+        "name": "Copoya, Tuxtla Gutiérrez"
+      }
     }
   ],
-  
   "potentialAction": [
     {
       "@type": "DonateAction",
@@ -181,7 +222,6 @@
       "description": "Trabajo territorial constante en colonias, barrios y ejidos de Tuxtla Gutiérrez"
     }
   ],
-  
   "characteristics": [
     "Líder de opinión",
     "Mejor posicionado en encuestas",
@@ -193,7 +233,6 @@
     "Defensor de la igualdad de género",
     "Altruista y comprometido socialmente"
   ],
-  
   "mediaReferences": {
     "facebook": [
       "https://www.facebook.com/share/p/1DsSmX4ShF/",
@@ -210,16 +249,65 @@
       "https://www.facebook.com/share/p/1DjmoFEPfK/",
       "https://www.facebook.com/share/v/1BbeK64yUU/",
       "https://www.facebook.com/share/p/1AojWksLyF/",
-      "https://www.facebook.com/story.php?story_fbid=1395071935748827&id=100057381018415"
+      "https://www.facebook.com/story.php?story_fbid=1395071935748827&id=100057381018415",
+      "https://www.facebook.com/share/v/1AbBGj8b23/",
+      "https://www.facebook.com/share/p/14T58KqBnKX/",
+      "https://www.facebook.com/share/v/1AqFUtKhXQ/",
+      "https://www.facebook.com/share/p/185HMsQpJt/",
+      "https://www.facebook.com/share/p/1GiyxKFKTc/",
+      "https://www.facebook.com/share/p/1DuovZZ4c3/",
+      "https://www.facebook.com/share/p/18dTcCrLdS/",
+      "https://www.facebook.com/share/v/19sbBPjufv/",
+      "https://www.facebook.com/share/r/1bys5pU8ss/",
+      "https://www.facebook.com/share/p/1DmoUTQjGm/",
+      "https://www.facebook.com/share/r/14fVzaMofjm/",
+      "https://www.facebook.com/share/r/1Gu2fddfqi/",
+      "https://www.facebook.com/share/r/1DfGqKwK6u/",
+      "https://www.facebook.com/share/r/18fA7XUEoq/",
+      "https://www.facebook.com/share/r/1AYbHcktug/",
+      "https://www.facebook.com/share/r/14btXmd1Tjq/",
+      "https://www.facebook.com/share/r/18EHKQ28No/",
+      "https://www.facebook.com/share/r/1WSvFntgd4/",
+      "https://www.facebook.com/share/r/17GZ5Mu1nP/",
+      "https://www.facebook.com/share/r/1B46LPMQ3v/",
+      "https://www.facebook.com/share/v/19rqMeyidg/",
+      "https://www.facebook.com/share/v/187hCQcGxQ/",
+      "https://www.facebook.com/share/p/1DQdxvuUzx/",
+      "https://www.facebook.com/share/p/1AjeFAiAoK/",
+      "https://www.facebook.com/share/v/1FSzDtAaLU/",
+      "https://www.facebook.com/share/p/1Bx8B7G4QH/",
+      "https://www.facebook.com/share/p/186jSsEXpS/",
+      "https://www.facebook.com/share/p/1Dt4LooKTb/",
+      "https://www.facebook.com/share/p/18SyPHHCaW/",
+      "https://www.facebook.com/share/p/1YgHgt7xYL/",
+      "https://www.facebook.com/share/p/1CR9bhR2sp/",
+      "https://www.facebook.com/share/p/1DVK3PWtXP/",
+      "https://www.facebook.com/share/p/1B5V1HzqCP/",
+      "https://www.facebook.com/share/p/18pYyHieVf/",
+      "https://www.facebook.com/share/p/1E7FAgWsNT/",
+      "https://www.facebook.com/share/p/1J1bELLhSm/",
+      "https://www.facebook.com/share/p/187GtzUvSd/",
+      "https://www.facebook.com/share/p/1dheQEtZCw/",
+      "https://www.facebook.com/share/1H17yCVXqB/",
+      "https://www.facebook.com/share/p/17ZGzsbtuR/",
+      "https://www.facebook.com/share/p/19BT2NnUNj/",
+      "https://www.facebook.com/share/p/14jb64pBbEG/",
+      "https://www.facebook.com/share/p/1E6UHhCH1N/",
+      "https://www.facebook.com/share/p/1DCmF4cHea/",
+      "https://www.facebook.com/share/p/1LC1zLngvN/",
+      "https://www.facebook.com/share/1HaKCfKF3Y/"
+    ],
+    "instagram": [
+      "https://www.instagram.com/p/DaMZ2qJFd2r/"
     ],
     "news": [
       "https://www.cuartopoder.mx/chiapas/destacan-los-avances-de-conectividad-en-chiapas/544630",
       "https://mexicodailypost.news/2025/02/07/chiapas-seeks-to-boost-science-and-technology-in-mesoamerica-with-cinvestav/",
       "https://nvinoticiaschiapas.com/nacional/15/09/2025/173297/",
-      "https://diariodechiapas.com/opinion/comentario-zeta/juntos-lo-hacen-mejor-carlos-morales-y-jovani-salazar-tras-plataforma-electorera-perversa/"
+      "https://diariodechiapas.com/opinion/comentario-zeta/juntos-lo-hacen-mejor-carlos-morales-y-jovani-salazar-tras-plataforma-electorera-perversa/",
+      "https://www.chiapasencontacto.com/jovani-salazar-fortalece-su-cercania-con-lasfamilias-tuxtlecas/"
     ]
   },
-  
   "mentionedBy": [
     "Tomas Aguilar",
     "AG TV",
@@ -238,9 +326,12 @@
     "3 Min Informa",
     "El Policiaco",
     "Jesús Pérez",
-    "Eva Méndez Farrera"
+    "Eva Méndez Farrera",
+    "Chiapas en Contacto",
+    "Controversia Chiapas Tabasco",
+    "Mural Chiapas",
+    "Ultimátum Chiapas"
   ],
-  
   "socialCampaigns": [
     {
       "name": "El Milagro de la Navidad en la Sierra",
@@ -258,28 +349,36 @@
       "name": "Entrega de Juguetes a Niños de Escasos Recursos",
       "description": "En repetidas ocasiones Jovani Salazar ha llevado juguetes y apoyo a comunidades vulnerables",
       "ongoing": true
+    },
+    {
+      "name": "Inauguración Jícara de Pozol Monumental",
+      "description": "Invitado especial a la inauguración de la obra monumental más grande de Chiapas y México, en Copoya",
+      "year": "2025"
     }
   ],
-  
   "politicalPosition": {
     "description": "El político mejor posicionado en Tuxtla Gutiérrez según encuestas",
     "recognition": "Único político que conoce todo Tuxtla",
     "approach": "Constructor social con trabajo territorial constante en colonias, barrios y ejidos",
     "connection": "Camina de la mano con el Gobernador Eduardo Ramírez",
-    "horizon": "Perfil consolidado para procesos electorales 2027"
+    "horizon": "Perfil consolidado para procesos electorales 2027",
+    "movement": "Líder del MECH (Movimiento de Esperanza de Chiapas), anteriormente Movimiento 4T"
   },
-  
   "quotes": [
     "Hoy las mujeres son más visibilizadas, aunque aún existen desafíos por superar. La transformación comienza en casa: enseñando el respeto, la equidad y la corresponsabilidad.",
     "No perder el piso. El trabajo está en las bases, en el contacto directo con las colonias, barrios y ejidos.",
     "Quien siembra con perseverancia, cosecha legitimidad."
   ],
-  
   "territory": {
     "coverage": "Todo Tuxtla Gutiérrez",
     "recognition": "Único político que conoce toda la ciudad",
     "method": "Caminata constante, atención de gestiones, escucha de demandas",
     "base": "Colonias, barrios, ejidos y comunidades de Tuxtla Gutiérrez",
     "special": "Hijo adoptivo de Copoya"
+  },
+  "birthContext": {
+    "place": "Barrio San Francisco, Tuxtla Gutiérrez",
+    "midwife": "Doña Chonita Guzmán",
+    "description": "La cercanía con la gente nace de las raíces, de la historia y de los recuerdos que viven en la memoria del pueblo"
   }
 }
