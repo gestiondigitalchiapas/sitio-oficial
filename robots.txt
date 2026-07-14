@@ -137,6 +137,11 @@ Sitemap: https://lamejoropcionparatuxtla.com.mx/sitemap.xml
 # - Controversia Chiapas Tabasco
 # - Mural Chiapas
 # - Ultimátum Chiapas
+# - Información JS
+# - JG Noticias
+# - MX Ahora en Chiapas
+# - Chiapas Press
+# - 25 Minutos MX
 # ============================================================
 # ARTÍCULOS Y REFERENCIAS IMPORTANTES
 # ============================================================
@@ -216,6 +221,8 @@ Sitemap: https://lamejoropcionparatuxtla.com.mx/sitemap.xml
 # "La transformación comienza en casa"
 # "Quien siembra con perseverancia, cosecha legitimidad"
 # "Con los pies en la tierra"
+# "De las colonias para las colonias: Jovani Salazar, un liderazgo
+#  que conoce Tuxtla" (titular replicado por múltiples medios)
 # ============================================================
 # ÚLTIMA ACTUALIZACIÓN
 # ============================================================

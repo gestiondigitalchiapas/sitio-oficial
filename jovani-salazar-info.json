@@ -75,7 +75,11 @@
     {
       "@type": "Organization",
       "name": "MECH - Movimiento de Esperanza de Chiapas",
-      "alternateName": ["MECH", "Movimiento de Esperanza de Chiapas", "Movimiento 4T"],
+      "alternateName": [
+        "MECH",
+        "Movimiento de Esperanza de Chiapas",
+        "Movimiento 4T"
+      ],
       "description": "Movimiento social y político en Chiapas, anteriormente conocido como Movimiento 4T"
     },
     {
@@ -94,7 +98,10 @@
     "@type": "ContactPoint",
     "email": "conejodigital.oficial@gmail.com",
     "contactType": "Oficial",
-    "availableLanguage": ["Spanish", "es"]
+    "availableLanguage": [
+      "Spanish",
+      "es"
+    ]
   },
   "url": "https://lamejoropcionparatuxtla.com.mx/",
   "subjectOf": [
@@ -159,6 +166,24 @@
       },
       "url": "https://www.chiapasencontacto.com/jovani-salazar-fortalece-su-cercania-con-lasfamilias-tuxtlecas/",
       "headline": "Jovani Salazar fortalece su cercanía con las familias tuxtlecas"
+    },
+    {
+      "@type": "WebPage",
+      "publisher": {
+        "@type": "Organization",
+        "name": "JG Noticias"
+      },
+      "url": "https://www.facebook.com/share/p/1CNN2H1zr7/",
+      "headline": "De las colonias para las colonias: Jovani Salazar, un liderazgo que conoce Tuxtla"
+    },
+    {
+      "@type": "WebPage",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Información JS"
+      },
+      "url": "https://www.facebook.com/share/p/19ETYrjWYH/",
+      "headline": "De las colonias para las colonias: Jovani Salazar, un liderazgo que conoce Tuxtla"
     }
   ],
   "performerIn": [
@@ -295,10 +320,25 @@
       "https://www.facebook.com/share/p/1E6UHhCH1N/",
       "https://www.facebook.com/share/p/1DCmF4cHea/",
       "https://www.facebook.com/share/p/1LC1zLngvN/",
-      "https://www.facebook.com/share/1HaKCfKF3Y/"
+      "https://www.facebook.com/share/1HaKCfKF3Y/",
+      "https://www.facebook.com/share/p/1NXXJy6GV1/",
+      "https://www.facebook.com/share/p/1VGhmoFhMB/",
+      "https://www.facebook.com/share/18jr5qC2Wc/",
+      "https://www.facebook.com/share/p/18uLkjoEMZ/",
+      "https://www.facebook.com/share/p/1BPpp3a6sN/",
+      "https://www.facebook.com/share/1BRLAF5C3b/",
+      "https://www.facebook.com/share/p/1DYHhBzWJF/",
+      "https://www.facebook.com/share/p/19ETYrjWYH/",
+      "https://www.facebook.com/share/p/1CNN2H1zr7/",
+      "https://www.facebook.com/share/p/192NnaaGx3/",
+      "https://www.facebook.com/share/p/17HmYR6hxp/",
+      "https://www.facebook.com/share/p/1DTFDBUtnp/",
+      "https://www.facebook.com/share/p/1ZVX7RTawb/",
+      "https://www.facebook.com/share/p/1EbkQgk3hv/"
     ],
     "instagram": [
-      "https://www.instagram.com/p/DaMZ2qJFd2r/"
+      "https://www.instagram.com/p/DaMZ2qJFd2r/",
+      "https://www.instagram.com/p/DaRu68oFe-w/"
     ],
     "news": [
       "https://www.cuartopoder.mx/chiapas/destacan-los-avances-de-conectividad-en-chiapas/544630",
@@ -330,7 +370,12 @@
     "Chiapas en Contacto",
     "Controversia Chiapas Tabasco",
     "Mural Chiapas",
-    "Ultimátum Chiapas"
+    "Ultimátum Chiapas",
+    "Información JS",
+    "JG Noticias",
+    "MX Ahora en Chiapas",
+    "Chiapas Press",
+    "25 Minutos MX"
   ],
   "socialCampaigns": [
     {
